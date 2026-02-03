@@ -1,0 +1,55 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Problem Background}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Restatement of the Problem}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Our work}{4}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Assumptions and Justifications}{4}{section.2}%
+\contentsline {section}{\numberline {3}Notations}{5}{section.3}%
+\contentsline {section}{\numberline {4}Data Collection}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Economic Parameters}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Launch Cadence}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Reliability/Risk Parameters}{6}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Environmental Emission Factors}{6}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Comparative Analysis of Three Delivery Architectures}{7}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Space Elevator Only}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Rocket Only}{7}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Latitude Correction for Launch Performance}{7}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Wright Learning Curve Extension}{10}{subsubsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.3}Hybrid System}{11}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Impact of System Imperfections and Risk Assessment}{12}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Risk Quantification and Parameter Definition}{12}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Analytical Model Refinement: The Cost of Uncertainty}{12}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Modified Space Elevator System}{13}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Modified Rocket System}{13}{subsubsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.3}Monte Carlo Simulation and Decision Metric}{14}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}Risk-Aware Decision Metric ($J$)}{14}{subsubsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.4}Robust Hybrid Optimization}{14}{subsection.6.4}%
+\contentsline {subsubsection}{\numberline {6.4.1}Discussion of Baseline Results}{14}{subsubsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.5}Sensitivity Analysis: The Impact of Capacity Expansion}{15}{subsection.6.5}%
+\contentsline {subsubsection}{\numberline {6.5.1}Conclusion}{15}{subsubsection.6.5.1}%
+\contentsline {section}{\numberline {7}Water Resource Transportation Scheme}{16}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Model Assumptions and Parameter Definitions}{16}{subsection.7.1}%
+\contentsline {subsubsection}{\numberline {7.1.1}Water Demand}{16}{subsubsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.2}Water Recycling Efficiency Model}{16}{subsubsection.7.1.2}%
+\contentsline {subsubsection}{\numberline {7.1.3}Dynamic Water Supply Gap}{16}{subsubsection.7.1.3}%
+\contentsline {subsubsection}{\numberline {7.1.4}Transportation System with Load Rate and Convex Cost}{16}{subsubsection.7.1.4}%
+\contentsline {paragraph}{Basic Parameters}{16}{section*.9}%
+\contentsline {paragraph}{Load Rate and Convex Cost}{16}{section*.10}%
+\contentsline {subsubsection}{\numberline {7.1.5}Optimal Monthly Transport Allocation}{17}{subsubsection.7.1.5}%
+\contentsline {subsection}{\numberline {7.2}Multi-Scenario Result Analysis}{17}{subsection.7.2}%
+\contentsline {subsubsection}{\numberline {7.2.1}Analysis of Monthly Water Supply Gap}{17}{subsubsection.7.2.1}%
+\contentsline {subsubsection}{\numberline {7.2.2}Analysis of Cumulative Costs}{18}{subsubsection.7.2.2}%
+\contentsline {subsubsection}{\numberline {7.2.3}Optimized Phased Water Management Strategy}{18}{subsubsection.7.2.3}%
+\contentsline {subsubsection}{\numberline {7.2.4}Key Findings}{19}{subsubsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.3}Conclusion}{19}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Environmental Impact Assessment and Sustainable Optimization}{19}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Overview}{19}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Rocket Emissions Driven by Fuel Mass}{19}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Environmental Pressure Modeling}{19}{subsection.8.3}%
+\contentsline {subsubsection}{\numberline {8.3.1}Multi-pollutant emission vector at a fixed design $\alpha $}{20}{subsubsection.8.3.1}%
+\contentsline {subsubsection}{\numberline {8.3.2}PCA compression to a single composite pollution load $S(\alpha )$}{20}{subsubsection.8.3.2}%
+\contentsline {subsubsection}{\numberline {8.3.3}Logistic mapping from $S(\alpha )$ to Environmental Pressure $EP(\alpha )$}{21}{subsubsection.8.3.3}%
+\contentsline {subsubsection}{\numberline {8.3.4}Resulting environmental pressure function}{21}{subsubsection.8.3.4}%
+\contentsline {subsection}{\numberline {8.4}Carbon-Tax-Adjusted Cost and Constraint-Derived Weights}{21}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Numerical Results and Strategic Implications}{22}{subsection.8.5}%
+\contentsline {subsubsection}{\numberline {8.5.1}The "Green Shift" and Capacity Saturation}{22}{subsubsection.8.5.1}%
+\contentsline {section}{\numberline {9}References}{24}{section.9}%
